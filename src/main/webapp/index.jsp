@@ -9,9 +9,10 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Book Web App</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h2>Welcome to my Book Web App!</h2>
+        <p>Click <a href="authorList.jsp">Here</a> to view all authors.</p>
     </body>
 </html>
